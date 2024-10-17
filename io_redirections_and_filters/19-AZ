@@ -1,2 +1,2 @@
 #!/bin/bash
-tr a z | tr z e
+tr A Z | tr c e
