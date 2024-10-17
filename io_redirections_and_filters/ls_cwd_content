@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 shaan shaan 4096 Oct 17 14:17 .
+drwxr-xr-x 6 shaan shaan 4096 Oct 15 15:20 ..
+-rwxr--r-- 1 shaan shaan   32 Oct 15 15:24 0-hello_world
+-rwxr--r-- 1 shaan shaan   28 Oct 15 15:27 1-confused_smiley
+-rwxr--r-- 1 shaan shaan   28 Oct 15 15:37 2-hellofile
+-rwxr--r-- 1 shaan shaan   39 Oct 16 15:26 3-twofiles
+-rwxr--r-- 1 shaan shaan   29 Oct 16 15:34 4-lastlines
+-rwxr--r-- 1 shaan shaan   29 Oct 16 15:35 5-firstlines
+-rwxr--r-- 1 shaan shaan   40 Oct 16 15:54 6-third_line
+-rwxr--r-- 1 shaan shaan  151 Oct 16 16:07 7-file
+-rwxr--r-- 1 shaan shaan   36 Oct 17 14:16 8-cwd_state
+-rw-r--r-- 1 shaan shaan 3654 Oct 15 15:22 README.md
+-rw-r--r-- 1 shaan shaan  801 Oct 16 15:45 iacta
+-rw-r--r-- 1 shaan shaan    0 Oct 17 14:17 ls_cwd_content
